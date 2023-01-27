@@ -15,7 +15,7 @@ delete person1.firstName;
 console.log(person1);
 let person2={};
 person2['hii']="hello";
-if (person2={}) {
+if (person2={})  {
 	console.log(true);
 }
 else{
